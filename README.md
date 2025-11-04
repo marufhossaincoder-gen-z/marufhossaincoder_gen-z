@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java Script**
 
-- 👨‍💻 All of my projects are available at [https://lucky-praline-f356e3.netlify.app/](https://lucky-praline-f356e3.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://forbidden-maruf.netlify.app/](https://forbidden-maruf.netlify.app/)
 
 - 📫 How to reach me **marufmahadi4321@gmail.com**
 
